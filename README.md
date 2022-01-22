@@ -1,2 +1,2 @@
 # python
-beginner to advanced python handbook
+beginner to advanced core python handbook
